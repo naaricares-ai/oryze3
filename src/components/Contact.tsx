@@ -14,7 +14,7 @@ const EMAILJS_PUBLIC_KEY  = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
 const ADMIN_WHATSAPP = '918446692426';
 
 // ─── Email that receives submissions ─────────────────────────────────────────
-const ADMIN_EMAIL = 'nprathamesh519@gmail.com';
+const ADMIN_EMAIL = 'info.oryzetech108@gmail.com';
 
 export default function Contact() {
   const { data } = useStore();
