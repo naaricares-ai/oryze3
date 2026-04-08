@@ -71,7 +71,7 @@ const defaultData: SiteData = {
   company: {
     name: 'ORYZE',
     tagline: 'Empowering schools with intelligent technology.',
-    copyright: '© 2025 ORYZE Technologies. All rights reserved.',
+    copyright: '© 2026 ORYZE Technologies. All rights reserved.',
   },
   hero: {
     eyebrow: 'The Future of Education',
